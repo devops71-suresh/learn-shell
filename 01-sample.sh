@@ -1,4 +1,8 @@
-Hello World
+#Hello World
 ls
 ls -l
-ls -/opt
+# shell scrpting commands
+pwd
+cat 01-sample.sh
+
+
