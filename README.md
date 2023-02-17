@@ -10,3 +10,5 @@ Shell Scripting Topics# learn-
 5. Quotes
 6. Conditions
 7. shell
+8. Functions
+9. 
