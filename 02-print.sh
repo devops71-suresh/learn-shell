@@ -15,6 +15,6 @@ echo Hello World
 
 # \e[0m    --> Zero code is going to reset the color , if we enable color for sure we need to disable it otherwise color will continue on the screen
 
-echo -e "\e[34m Lakshman is my firstname \e[0m"
+echo -e "\e[34m Lakshman is my firstname "
 
 echo Suresh is my last name
